@@ -21,10 +21,10 @@ const Page: React.FC = () => {
                     * Errors can occur when generating information.
                 </p>
                 <div className="flex justify-center space-x-4">
-                    <a href="https://linkedin.com/in/your-linkedin" className="text-zinc-200 hover:text-white transition duration-300">
+                    <a href="https://www.linkedin.com/in/ey-mi/" className="text-zinc-200 hover:text-white transition duration-300">
                         LinkedIn
                     </a>
-                    <a href="https://github.com/your-github" className="text-zinc-200 hover:text-white transition duration-300">
+                    <a href="https://github.com/Ey-Mi" className="text-zinc-200 hover:text-white transition duration-300">
                         GitHub
                     </a>
                 </div>
